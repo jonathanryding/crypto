@@ -1,0 +1,2 @@
+# crypto
+What are cryptocurrencies?
